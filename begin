@@ -1,3 +1,4 @@
+// error processing code
 rs.close();
 props.load(fs);
 public void fetch() throws SQLException, IOException
