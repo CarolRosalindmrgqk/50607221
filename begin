@@ -1,3 +1,4 @@
+try {
 out.close();
 ps.close();
 public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
