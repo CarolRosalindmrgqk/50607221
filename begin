@@ -1,3 +1,4 @@
+if (out != null) {
 try {
 String url = props.getProperty("db.url");
 try {
